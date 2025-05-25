@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/macbookpro/Desktop/Jogo Super Trunfo em C/SuperTrunfo'
+relocations:     []
+...
